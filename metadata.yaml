@@ -1,0 +1,33 @@
+_repo: Chats-on-Old-FurnitureA-Practical-Guide-for-Collectors_34877
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hayden, Arthur
+    birthdate: 1868
+    deathdate: 1946
+    gutenberg_agent_id: '37297'
+    url: http://www.gutenberg.org/2009/agents/37297
+description: ''
+gutenberg_issued: '2011-01-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34877'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'NK'
+- !lcsh 'Collectors and collecting'
+- !lcsh 'Furniture -- History'
+tableOfContents: The Renaissance on the continent -- The English Renaissance -- Stuart
+  or Jacobean (seventeenth century) -- Stuart or Jacobean (late seventeenth century)
+  -- Queen Anne style -- French furniture. The period of Louis XIV -- French furniture.
+  The period of Louis XV -- French furniture. The period of Louis XVI -- French furniture.
+  The First Empire style -- Chippendale and his style -- Sheraton, Adam, and the Heppelwhite
+  styles -- Hints to collectors.
+title: 'Chats on Old Furniture: A Practical Guide for Collectors'
+url: http://www.gutenberg.org/ebooks/34877
